@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Build output (if you have a build step)
+build/
+dist/
+
+# Operating system files
+.DS_Store  # macOS system files
+Thumbs.db  # Windows system files
+
+# IDE files (if you're using an IDE like VSCode, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Dependency directories for package managers
+.pnp/
+.pnp.js
+
+# Coverage directory (from code coverage tools)
+coverage/
+
+# Temporary files
+*.swp  # Vim temp files
+*.swo  # Vim swap files
+*.bak  # Backup files
+
+# TypeScript build artifacts (if using TypeScript)
+*.tsbuildinfo
+
+# Other
+*.env.local  # If you use specific environment files per environment
